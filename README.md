@@ -1,4 +1,4 @@
-# summerintership2024_21IT119
+# SUMMER INTERNSHIP
 
 <h2>6th Sem Summer Internship</h2>
 # 🌟 AWS Summer Internship 2024 - Project Showcase 🌟
