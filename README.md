@@ -1,6 +1,6 @@
-# summerintership2024_D23IT168
+# summerintership2024_21IT119
 
-<h2>4th Sem Summer Internship</h2>
+<h2>6th Sem Summer Internship</h2>
 # 🌟 AWS Summer Internship 2024 - Project Showcase 🌟
 
 Welcome to my GitHub repository for the AWS Summer Internship 2024! This project showcases the work done during the internship, including practical insights and hands-on experience with Amazon Web Services (AWS). 
@@ -326,9 +326,9 @@ https://github.com/hamidgholami/accp-cheatsheet
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [[https://www.linkedin.com](https://www.linkedin.com/in/viken-hadavani-27b6412b3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc%2BtFz8i0SqaVmf395szcFw%3D%3D)]
+- LinkedIn: [[https://www.linkedin.com](https://www.linkedin.com/in/shrusti-patel-9b259a239)]
 
-- Email: [vikenhadavani@gmail.com]
+- Email: [21it119@charusat.edu.in]
 
 
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
